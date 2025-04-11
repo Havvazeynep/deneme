@@ -1,3 +1,5 @@
 bu bir github deneme örneğidir
 
 bu örnek github üzerinden yapılmıştır
+
+vs code yükleme denemesi
