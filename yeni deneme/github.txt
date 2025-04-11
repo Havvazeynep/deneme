@@ -1,1 +1,3 @@
 bu bir github deneme örneğidir
+
+bu örnek github üzerinden yapılmıştır
